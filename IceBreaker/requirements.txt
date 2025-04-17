@@ -1,1 +1,10 @@
 python-dotenv
+langchain_core
+langchain_openai
+langchain_core
+langchain
+requests
+langchain_community
+streamlit
+langchain_openai
+pydantic
